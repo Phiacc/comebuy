@@ -9,6 +9,7 @@ import SignUp from './components/SignUp';
 import BuyersSignup from './components/BuyersSignup';
 import SellersSignup from './components/SellersSignup';
 import Login from './components/Login';
+import Sellerspage from './components/Sellerspage';
 
 
 
@@ -31,6 +32,7 @@ function App() {
     {/* <BuyersSignup /> */}
     {/* <SellersSignup /> */}
     {/* <Login /> */}
+    {/* <Sellerspage /> */}
 
   </div>
   )
